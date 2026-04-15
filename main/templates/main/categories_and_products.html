@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories and Products</title>
+</head>
+<body>
+    <h1>Categories and Products</h1>
+    {% for category in categories %}
+        <h2>{{ category.name }}</h2>
+        <ul>
+            {% for product in category.product_set.all %}
+                <li>
+                    <strong>{{ product.name }}</strong> - {{ product.description }} - ${{ product.price }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</body>
+</html>

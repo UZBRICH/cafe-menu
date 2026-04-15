@@ -1,0 +1,164 @@
+﻿N:,Nomi,Gurux,Narxi,O'lchov birligi,Tavsif
+1,Ice latte,COFFE,"30,000",Donasi,Sut va espresso asosidagi yumshoq kofe ichimligi
+2,RAF,COFFE,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+3,LATTE,COFFE,"30,000",KG,Sut va espresso asosidagi yumshoq kofe ichimligi
+4,Ice Amerıcano,COFFE,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+5,MILK SHEYKLAR,COFFE,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+6,MOXITO,COFFE,"30,000",Donasi,Sut va espresso asosidagi yumshoq kofe ichimligi
+7,Ice LATTE macha,COFFE,"35,000",Donasi,Sut va espresso asosidagi yumshoq kofe ichimligi
+8,Hot chokolatte,COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+9,PEYNİRLİ,SHIRINLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+10,EXSPRESSO,ICE COFFE,"22,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+11,TÜRK CHAYI,ICE COFFE,"4,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+12,TÜRK QAXVASI,ICE COFFE,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+13,KİYMALİ POĞAÇA,POĞAÇA ÇEŞİTLERİ,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+14,SU BÖREĞI,BÖREK ÇEŞITLARI,"7,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+15,KİYMALİ POĞAÇA,POĞAÇA ÇEŞİTLERİ,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+16,PEYNİRLİ,POĞAÇA ÇEŞİTLERİ,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+17,HAVUÇ DILIMI,BAKLAVALAR ÇEŞITLERI,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+18,KLASSIK KUŞ GÖZÜ,BAKLAVALAR ÇEŞITLERI,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+19,ÇİKOLATALI,POĞAÇA ÇEŞİTLERİ,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+20,CEVIZ HANIM GÖBEĞI,BAKLAVALAR ÇEŞITLERI,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+21,TAYİNLİ,POĞAÇA ÇEŞİTLERİ,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+22,FISTIKLI PRINSES,BAKLAVALAR ÇEŞITLERI,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+23,SAKALLİ,POĞAÇA ÇEŞİTLERİ,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+24,PİZZA,POĞAÇA ÇEŞİTLERİ,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+25,ŞOBIYET,BAKLAVALAR ÇEŞITLERI,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+26,PATATES,POĞAÇA ÇEŞİTLERİ,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+27,SOVUĞ BAKLAVA,BAKLAVALAR ÇEŞITLERI,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+28,ÇIKOLATAL BAKLAVA,BAKLAVALAR ÇEŞITLERI,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+29,MERCİMEK,ÇORBALAR,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+30,EZOGELİN,ÇORBALAR,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+31,MANTARLİ,ÇORBALAR,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+32,TOVUK SUVU,ÇORBALAR,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+33,SPAGETTİ KİYMALİ,MAKARNA ÇESITLARI,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+34,SPAGETTİ SOSLİ,MAKARNA ÇESITLARI,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+35,SÜTLAÇ,SÜTLÜ TATLILAR,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+36,KREMALİ MANTARLİ,MAKARNA ÇESITLARI,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+37,PROTIFOR,SÜTLÜ TATLILAR,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+38,ACİ TATLİ SOSLİ,MAKARNA ÇESITLARI,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+39,BAÇENAL,ÇORBALAR,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+40,HİRİSTİYASİ BAKLACAN,SALATA ÇESITLERI,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+41,SEZER SALATA,SALATA ÇESITLERI,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+42,OACİZ SALATA,SALATA ÇESITLERI,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+43,GARILLA,ICHIMLIKLAR,"13,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+44,İSTANBUL SİMİTİ,SİMİT ÇEŞİTLERİ,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+45,CİTİR,SİMİT ÇEŞİTLERİ,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+46,KAŞARLI,SİMİT ÇEŞİTLERİ,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+47,PİZZA,SİMİT ÇEŞİTLERİ,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+48,GALETA ÇEŞİTLERİ,SİMİT ÇEŞİTLERİ,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+49,İNCA GALETE,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+50,SADA SUSAMLİ,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+51,PASTALAR KURU,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+52,SAKARLİ TUZLU KURABİYE,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+53,GAVREK,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+54,SALAMİK ÇEVRECİ,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+55,KANDİL SİMİTİ,SİMİT ÇEŞİTLERİ,"100,000",KG,Mazali va sifatli tayyorlangan mahsulot
+56,4 KİSİLİK,YAŞ PASTA TORT,"80,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+57,6 KİSİLİK,YAŞ PASTA TORT,"120,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+58,10 KİSİLİK,YAŞ PASTA TORT,"150,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+59,KARAMEL,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+60,ÇİKOLATA,YAŞ PASTA TORT,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+61,MUZLU,YAŞ PASTA TORT,"200,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+62,ÇİLEKLİ 1,YAŞ PASTA TORT,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+63,EKLAR ÇEŞİTLERİ,YAŞ PASTA TORT,"5,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+64,ÇİSKEK,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+65,SANSABATİYA,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+66,ÇİKOLATA RÜYASI,YAŞ PASTA TORT,"200,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+67,KARAMEL tort,YAŞ PASTA TORT,"150,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+68,FİSTİK DUNYASİ,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+69,Qirolicha,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+70,Turk choyi,ICE COFFE,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+71,Italiano chizka,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+72,Fistiq sarma,BAKLAVALAR ÇEŞITLERI,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+73,Ice cappuccino,ICE COFFE,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+74,Cappuccino,ICE COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+75,Turk choyi choynakda,ICE COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+76,Cevizli kadayif,BAKLAVALAR ÇEŞITLERI,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+77,Qulpinoyli cokalatli stakanda,SÜTLÜ TATLILAR,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+78,ACI TATLI SOSLI,Mazali va sifatli tayyorlangan mahsulot,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+79,Grechiskiy salat,SALATA ÇESITLERI,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+80,Çıkolata topı,Mazali va sifatli tayyorlangan mahsulot,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+81,Americano,COFFE,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+82,ÇİLEKLİ 2,SÜTLÜ TATLILAR,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+83,Cappuccıno,COFFE,"30,000",литр,Mazali va sifatli tayyorlangan mahsulot
+84,Ice cappucıno,COFFE,"35,000",литр,Mazali va sifatli tayyorlangan mahsulot
+85,Ice latte,COFFE,"35,000",литр,Sut va espresso asosidagi yumshoq kofe ichimligi
+86,Ice amerıcano,COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+87,Kakteyl,ICHIMLIKLAR,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+88,Rulet,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+89,Cola 1l,Mazali va sifatli tayyorlangan mahsulot,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+90,Hot kakao,COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+91,Muzaık,Mazali va sifatli tayyorlangan mahsulot,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+92,Mozaı,SÜTLÜ TATLILAR,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+93,Cola 1L,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+94,Fanta 1L,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+95,Sprite 1L,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+96,Bon aqua 1L,ICHIMLIKLAR,"7,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+97,Fuse tea 1L,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+98,Cola shakarsz 1L,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+99,"Cola 0,5L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+100,"Fanta 0,5L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+101,"Sprıte 0,5L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+102,"Fuse tea 0,5L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+103,"Bonaqua 0,5L",ICHIMLIKLAR,"3,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+104,"Cola B 0,45L",ICHIMLIKLAR,"13,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+105,"Fuse tea B 0,45L",ICHIMLIKLAR,"13,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+106,"Cola B 0,25L",ICHIMLIKLAR,"7,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+107,"Sprite B 0,25L",ICHIMLIKLAR,"7,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+108,"Fanta B 0,25L",ICHIMLIKLAR,"7,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+109,"Fanta shısha 0,25L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+110,"Sprıte shısha 0,25L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+111,"Cola shakarsz 0,25L",ICHIMLIKLAR,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+112,Pulpy 1L,ICHIMLIKLAR,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+113,"Pulpy 0,5L",ICHIMLIKLAR,"13,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+114,"Sprite 1,5L",ICHIMLIKLAR,"18,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+115,Fanta nokli,ICHIMLIKLAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+116,Qulpinaylı napalyon,YAŞ PASTA TORT,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+117,Turbıchka,YAŞ PASTA TORT,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+118,Somsa,Mazali va sifatli tayyorlangan mahsulot,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+119,Susını lapki,YAŞ PASTA TORT,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+120,Bananchık,YAŞ PASTA TORT,"5,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+121,Sheyx,SALATA ÇESITLERI,"45,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+122,Svejiy salata,SALATA ÇESITLERI,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+123,Yaponskıy,SALATA ÇESITLERI,"45,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+124,Olivye,SALATA ÇESITLERI,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+125,Choban,SALATA ÇESITLERI,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+126,Qirqma,Shashlıklar,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+127,Qıyma,Shashlıklar,16000,Donasi,Mazali va sifatli tayyorlangan mahsulot
+128,Jigar,Shashlıklar,16000,Donasi,Mazali va sifatli tayyorlangan mahsulot
+129,Qovurğa,Shashlıklar,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+130,Napoleon,Shashlıklar,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+131,Tovuq,Shashlıklar,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+132,Tovuq qanot,Shashlıklar,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+133,Napalyon trubochka,SÜTLÜ TATLILAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+134,Napalyon turubuchka,SÜTLÜ TATLILAR,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+135,Balonchık,POĞAÇA ÇEŞİTLERİ,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+136,Ekler kulpınoy,YAŞ PASTA TORT,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+137,Dumalok,YAŞ PASTA TORT,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+138,Tortburchek,YAŞ PASTA TORT,"20,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+139,Sınıkırs,SİMİT ÇEŞİTLERİ,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+140,Ponchık,POĞAÇA ÇEŞİTLERİ,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+141,Sovug baklava,BAKLAVALAR ÇEŞITLERI,"12,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+142,Sövug baklava,BAKLAVALAR ÇEŞITLERI,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+143,Non kuchuk,POĞAÇA ÇEŞİTLERİ,"4,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+144,Non,BÖREK ÇEŞITLARI,"4,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+145,Hot-dog,FAST FOOD,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+146,Lavash,FAST FOOD,"32,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+147,Nonburger,FAST FOOD,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+148,Gamburger,FAST FOOD,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+149,Chezburger,FAST FOOD,"32,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+150,Hot-dog 2,FAST FOOD,"18,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+151,Donasir,FAST FOOD,"28,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+152,Kasarli tost,FAST FOOD,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+153,Frii,FAST FOOD,"15,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+154,Rulet,Shashlıklar,"40,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+155,Türkiye köfte,Shashlıklar,"25,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+156,Türkıye köfte,Shashlıklar,"45,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+157,Kahvoltı tobak,SİMİT ÇEŞİTLERİ,"70,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+158,Kavoltı,SİMİT ÇEŞİTLERİ,"70,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+159,Kakao,COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+160,Hot chocolate,COFFE,"30,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+161,Manaman,BÖREK ÇEŞITLARI,"35,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+162,Non katta,BÖREK ÇEŞITLARI,"5,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
+163,Kok choy,ICE COFFE,"10,000",Donasi,Mazali va sifatli tayyorlangan mahsulot
