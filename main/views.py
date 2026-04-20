@@ -16,8 +16,6 @@ def index(request):
         message = request.POST.get('message')
         rating = request.POST.get('rating')
 
-        print("POST RECEIVED")
-        print("DATA:", full_name, phone, message, rating)
 
         if full_name and message:
             Feedback.objects.create(
@@ -27,11 +25,11 @@ def index(request):
                 rating=int(rating or 1)
             )
 
-            messages.success(request, "Thanks! Your feedback was saved ❤️")
+            messages.success(request, "Katta raxmat! Sizning fikringiz ko'rib chiqiladi ❤️")
             return redirect('home')  # prevents resubmitting form
 
         else:
-            messages.error(request, "Please fill all required fields!")
+            messages.error(request, "Iltimos fikringizni qoldiring!")
 
     feedbacks = Feedback.objects.all().order_by('-id')
     avg_rating = Feedback.objects.aggregate(models.Avg('rating'))['rating__avg']
