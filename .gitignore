@@ -1,0 +1,23 @@
+
+# Environments & Secrets
+.env
+.env.local
+*.env
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+media/
+
+# Frontend / Node
+node_modules/
+.pnp
+.pnp.js
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
